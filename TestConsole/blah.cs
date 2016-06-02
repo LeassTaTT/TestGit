@@ -18,7 +18,7 @@ namespace TestConsole
 			int i = 0;
 			while (true)
 			{
-				yield return i++;
+				yield return i+=2;
 			}
 		}
 	}
