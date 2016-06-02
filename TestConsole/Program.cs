@@ -12,7 +12,7 @@ namespace TestConsole
         {
             Console.WriteLine("git ciganiq ");
             Console.WriteLine("kur");
-            Console.WriteLine("cl2");
+            Console.WriteLine("kur 2");
 
 			foreach (var blah in new blah().getBlah().Take(100))
 			{
