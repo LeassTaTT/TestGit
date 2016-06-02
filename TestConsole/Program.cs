@@ -11,7 +11,7 @@ namespace TestConsole
         static void Main(string[] args)
         {
             Console.WriteLine("cl");
-
+Console.WriteLine("cl23");
             Console.WriteLine("cl2");
         }
     }
