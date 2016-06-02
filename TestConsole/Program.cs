@@ -10,7 +10,7 @@ namespace TestConsole
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("cl");
+            Console.WriteLine("golqma typotiq ");
 Console.WriteLine("kur");
             Console.WriteLine("cl2");
         }
